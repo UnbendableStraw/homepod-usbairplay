@@ -13,3 +13,7 @@ Observations so far:
 
 To use, you need to make or buy a USB adapter for your pod. Whatever you end up doing to get USB access to your HomePod will most likely stick out the bottom, so you need to raise the base of the pod to prevent damage to the adapter or debug port when placing it upright. I have 3d printable adapters and stands you can make or buy here: https://github.com/UnbendableStraw/homepwn-simple/
 
+Video Demos:
+* https://twitter.com/UnbendableStraw/status/1836576917077790951
+* https://twitter.com/UnbendableStraw/status/1836848399997620624
+* https://youtube.com/live/Je3FnzLNufg
