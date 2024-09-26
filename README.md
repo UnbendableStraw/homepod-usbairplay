@@ -8,6 +8,7 @@ Observations so far:
 * Does not seem to work if the HomePod was configured as a Default Output for an Apple TV
 * Can play to multiple HomePods via USB (plus other Airplay 2 speakers)(using "Airfoil" by Rogue Amoeba)
 * Stereo pairs (i.e. playing to a stereo pair pod via USB does not transmit to it's paired pod. Can still use Airfoil for multiple)
+* USB Ethernet adapters, even powered ones, by themselves do not appear to work with the HomePod. 
 
 
 To use, you need to make or buy a USB adapter for your pod. Most adapters stick out the bottom, so you need to raise the base of the pod to prevent damage to the adapter or debug port when placing it upright. I have 3d printable adapters and stands you can make or buy here: https://github.com/UnbendableStraw/homepwn-simple/
